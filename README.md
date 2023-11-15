@@ -21,6 +21,11 @@ Steps to complete project
 ![image](https://github.com/jroberts2124/Weather-API/assets/61176037/a2959f2d-8e55-4465-98eb-df80b022c620)
 ![image](https://github.com/jroberts2124/Weather-API/assets/61176037/9eb5b242-dbfb-4f00-a386-3109825a1be1)
 
+- connect my vscode to my EC2 instance via remote SSH
+![image](https://github.com/jroberts2124/Weather-API/assets/61176037/88ea868a-c48d-4219-ac85-ea28613c2ca2)
+
+
+
 
 
 
