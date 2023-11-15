@@ -16,6 +16,15 @@ Steps to complete project
   ![image](https://github.com/jroberts2124/Weather-API/assets/61176037/ee11c3e2-2c59-460b-a6db-42da8de245b9)
 - run apache airflow
 ![image](https://github.com/jroberts2124/Weather-API/assets/61176037/bfe4fde2-b7cf-4bdb-9252-71e8f37ad5ab)
+- logged into apache airflow with given credentials
+  ![image](https://github.com/jroberts2124/Weather-API/assets/61176037/c4069351-d2f1-436a-8166-a75d928f4a18)
+![image](https://github.com/jroberts2124/Weather-API/assets/61176037/a2959f2d-8e55-4465-98eb-df80b022c620)
+![image](https://github.com/jroberts2124/Weather-API/assets/61176037/9eb5b242-dbfb-4f00-a386-3109825a1be1)
+
+
+
+
+
 
 
 
