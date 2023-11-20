@@ -9,7 +9,13 @@ DAG
 ![image](https://github.com/jroberts2124/Weather-API/assets/61176037/d1eb841c-aa4d-4f85-a3fe-c90fdb72f72c)
 
 csv file in S3 bucket
-![image](https://github.com/jroberts2124/Weather-API/assets/61176037/1dd80a63-64eb-4748-a696-bb402ed23c68)
+![image](https://github.com/jroberts2124/Weather-API/assets/61176037/cc404fce-cb8c-452f-8807-166a1d78016e)
+
+
+contents of csv file
+![image](https://github.com/jroberts2124/Weather-API/assets/61176037/d625307e-4c8a-4c34-864e-8f48433eb608)
+
+
 
 
 
