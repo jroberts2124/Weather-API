@@ -2,6 +2,7 @@
 Build and automate a python ETL pipeline with airflow on AWS EC2
 
 
+
 ![image](https://github.com/jroberts2124/Weather-API/assets/61176037/d1eb841c-aa4d-4f85-a3fe-c90fdb72f72c)
 
 
